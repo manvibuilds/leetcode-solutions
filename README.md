@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/manvibuilds/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/manvibuilds/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/manvibuilds/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/manvibuilds/leetcode-solutions/tree/master/0392-is-subsequence) |
 ## Hash Table
@@ -44,5 +45,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/manvibuilds/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/manvibuilds/leetcode-solutions/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
