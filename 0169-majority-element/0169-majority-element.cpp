@@ -3,6 +3,7 @@ public:
     int majorityElement(vector<int>& nums) {
         int n = nums.size();
         map<int,int>mpp;
+        //tc = nlon n for map but for unordered_map it will be n only 
         for(int i =0;i<n;i++){
             mpp[nums[i]]++;
         }
