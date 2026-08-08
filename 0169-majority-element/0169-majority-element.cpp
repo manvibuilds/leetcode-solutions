@@ -2,14 +2,27 @@ class Solution {
 public:
     int majorityElement(vector<int>& nums) {
         int n = nums.size();
-        map<int,int>mpp;
-        //tc = nlon n for map but for unordered_map it will be n only 
+        //moore's voting algo 
+        int cnt =0;
+        int el;
         for(int i =0;i<n;i++){
-            mpp[nums[i]]++;
+            if(cnt ==0){
+                cnt =1;
+                el = nums[i];
+                
+            }else if(el == nums[i]){
+                cnt++;
+            }else{
+                cnt--;
+            }
+            
+
         }
-        for(auto it: mpp){
-            if(it.second >n/2){
-                return it.first;
+        int cnt1 = 0;
+        for(int i =0;i<n;i++){
+            if(el == nums[i]){
+                cnt1++;
+                return nums[i];
             }
         }
         return -1;
