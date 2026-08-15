@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/manvibuilds/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/manvibuilds/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/manvibuilds/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0136-single-number](https://github.com/manvibuilds/leetcode-solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/manvibuilds/leetcode-solutions/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/manvibuilds/leetcode-solutions/tree/master/0283-move-zeroes) |
 ## Two Pointers
@@ -60,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/manvibuilds/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/manvibuilds/leetcode-solutions/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
