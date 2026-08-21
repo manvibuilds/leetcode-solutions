@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/manvibuilds/leetcode-solutions/tree/master/0169-majority-element) |
+| [1189-maximum-number-of-balloons](https://github.com/manvibuilds/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/manvibuilds/leetcode-solutions/tree/master/0169-majority-element) |
+| [1189-maximum-number-of-balloons](https://github.com/manvibuilds/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/manvibuilds/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/manvibuilds/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/manvibuilds/leetcode-solutions/tree/master/0392-is-subsequence) |
+| [1189-maximum-number-of-balloons](https://github.com/manvibuilds/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 ## Trie
 |  |
 | ------- |
