@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/manvibuilds/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/manvibuilds/leetcode-solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/manvibuilds/leetcode-solutions/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/manvibuilds/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/manvibuilds/leetcode-solutions/tree/master/0283-move-zeroes) |
 ## Two Pointers
 |  |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/manvibuilds/leetcode-solutions/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/manvibuilds/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/manvibuilds/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 ## Divide and Conquer
 |  |
@@ -74,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/manvibuilds/leetcode-solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/manvibuilds/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/manvibuilds/leetcode-solutions/tree/master/0338-counting-bits) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/manvibuilds/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
