@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/manvibuilds/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/manvibuilds/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/manvibuilds/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0041-first-missing-positive](https://github.com/manvibuilds/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/manvibuilds/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/manvibuilds/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/manvibuilds/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/manvibuilds/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/manvibuilds/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/manvibuilds/leetcode-solutions/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/manvibuilds/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
